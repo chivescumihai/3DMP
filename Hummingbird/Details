@@ -1,5 +1,6 @@
 This folder contains the final project files for the 3D Modeling and Printing Course.
 Week 2 V11 - Components nearly done
 Week 3 V23 - Joints for body done, joints for wings not placed.
-       V26 - All joints placed, front- back motion working, wings are not moving, some joints may be conflicting
+       V26 - All joints placed, front- back motion working, wings are not moving => nothing is moving due
+             to motin links, some joints may be conflicting.
        
