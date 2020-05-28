@@ -43,4 +43,7 @@ Week 2 V11 - Components nearly done
 Week 3 V23 - Joints for body done, joints for wings not placed.
        V26 - All joints placed, front- back motion working, wings are not moving => nothing is moving due
              to motion links, some joints may be conflicting.
-       
+       V29 - Shoulders redesigned to eliminate possible wrong contact between Shoulder and Shoulder Wheel to Shoulder Connector.
+             After joints were placed, wings are still not moving, motion link for the Shoulder Wheel to Shoulder connector doesn't
+             compensate for the tilting of the Shoulder during the rotation => the pivot doesn't rotate => nothing happens.
+             
