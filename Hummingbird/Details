@@ -25,7 +25,12 @@ Autodesk Fusion 360
 
 
 # Moving the mechanism
-To power the mechanism you should power the Base Front Cogwheel joint, 
+To power the mechanism you can spin any of the cogwheels, or use the Movement Motion Study.
+
+
+# Filetypes
+
+The repository contains f3d and stl files.
 
 
 # Resources
