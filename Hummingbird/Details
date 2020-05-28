@@ -1,6 +1,46 @@
 This folder contains the final project files for the 3D Modeling and Printing Course.
+# Project Name
+
+Hummingbird Mechanism
+
+
+# Description
+
+       The hummingbird mechanism allows the movement of multiple separate components, from a single cogwheel.       
+
+
+# How the mechanism works
+
+       The mechanism has two main movements :
+       The body back-and-forth motion is directly linked to the Front Base Cogwheel, a full motion of the cogwheel
+resulting in a full completed motion of the body, due to the Legs being directly connected to the Front Base Cogwheel,
+       The wings motion is done with multiple cogwheels continuing from the Front Base Cogwheel, along the Holder, then
+the Body, finally connecting to the shoulder through the Shoulder Wheel - Shoulder connector, which determines the movement
+of the wings.
+
+
+#Software Used
+
+Autodesk Fusion 360
+
+
+# Moving the mechanism
+To power the mechanism you shoud power the Base Front Cogwheel, 
+
+
+# Resources
+
+https://www.myminifactory.com/de/object/3d-print-hummingbird-58648
+
+
+# Original Mechanism Creator
+
+Greg Zumwalt
+
+# Chronology
+
 Week 2 V11 - Components nearly done
 Week 3 V23 - Joints for body done, joints for wings not placed.
        V26 - All joints placed, front- back motion working, wings are not moving => nothing is moving due
-             to motin links, some joints may be conflicting.
+             to motion links, some joints may be conflicting.
        
