@@ -52,3 +52,5 @@ Week 3 V23 - Joints for body done, joints for wings not placed.
              After joints were placed, wings are still not moving, motion link for the Shoulder Wheel to Shoulder connector doesn't
              compensate for the tilting of the Shoulder during the rotation => the pivot doesn't rotate => nothing happens.
        V36 - Shoulder Wheel to Shoulder slighlty redesigned, some joints replaced, wings can now move, but only on one axis.
+       V42 - Replaced Revolute Joints for Wing Rotation and Shoulder - Shoulder Connector with Pin - Slot Joints
+       
